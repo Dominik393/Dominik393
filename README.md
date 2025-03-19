@@ -11,8 +11,8 @@ Beyond coding, I have a strong interest in analyzing and reviewing pop culture w
 - **Version Control Systems:** Git
 
 ### 🚀 My Projects
-🔹 [RPG Game]([project-link](https://github.com/Dominik393/RPG_Python_Game)) - RPG Game made in collaboration with [skochv04](https://github.com/skochv04) using PyGame  
-🔹 [Ecosystem Simulator](https://github.com/skochv04) - Object Oriented Simulation of Ecosystem made in Java 
+🔹 [RPG Game](https://github.com/Dominik393/RPG_Python_Game) - RPG Game made in collaboration with [skochv04](https://github.com/skochv04) using PyGame  
+🔹 [Ecosystem Simulator](https://github.com/Dominik393/PO_2023_PON1640_DROZDZ) - Object Oriented Simulation of Ecosystem made in Java 
 
 ### 📫 Contact
 📧 dominiksmykow@gmail.com  
